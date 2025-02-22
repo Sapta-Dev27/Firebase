@@ -71,6 +71,12 @@ button:focus-visible {
   margin: 10px;
   border: 1px solid #747bff;
 }
+.btn-2 {
+
+
+  margin: 10px;
+  border: 1px solid #747bff;
+}
 
 .auth {
   width : 400px;
@@ -80,4 +86,11 @@ button:focus-visible {
   border : 2px solid #747bff ;
   font-size: large;
   font-weight: 600;
+}
+.btns {
+  margin-top: 25px ;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
 }
